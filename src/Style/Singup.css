@@ -1,0 +1,31 @@
+.fillcover{
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 12px 0px;
+    column-gap: 30px;
+    align-items: center;
+}
+.signupwidth{
+    width: 500px;
+}
+.fillcover .signupwidth img{
+    width: 500px;
+}
+.signupfilled{
+    width: 500px;
+}
+.centertext{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: #3368FF;
+    /* text-shadow: 
+    0px -2px 0px ; */
+    text-decoration: underline;
+}

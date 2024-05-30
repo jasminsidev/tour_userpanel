@@ -1,0 +1,31 @@
+.flexfliy{
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 30PX;
+    margin: 12px 0px;
+    align-items: center;
+}
+.flexfliy .imgwidth{
+    width: 500px;
+}
+.flexfliy .imgwidth img{
+    width: 100%;
+}
+.maininput{
+    width: 500px;
+}
+.colrowis{
+    display: flex ;
+    justify-content: center;
+}
+.colrowis input {
+    display: flex;
+    width: 10px;
+}
+.maininput .buttontag{
+    display: flex;
+    justify-content: center;
+}

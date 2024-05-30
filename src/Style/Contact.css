@@ -1,0 +1,46 @@
+.namecenter{
+    text-align: center;
+    font-weight: 700px;
+    margin: 0px;
+}
+.namecenter h6{
+    margin: 0px;
+}
+.flexcard{
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content:center ;
+    column-gap: 30px;
+    margin: auto;
+}
+.carditem{
+    margin: auto;
+    width: 300px;
+}
+.fromiframe{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 5px;
+    column-gap: 25px;
+    margin-bottom: 20px;
+}
+.flexdrection{
+    display: flex;
+    flex-direction: column;
+}
+.imagshaping{
+    width: 550px;
+}
+.widthclass{
+    width: 600px;
+}
+.flexboxclass{
+    display: flex;
+    justify-content: center;
+
+}
+textarea{
+    resize: vertical;
+}

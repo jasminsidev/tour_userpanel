@@ -1,0 +1,21 @@
+/* -------------------------new footer-------------------------------- */
+.mainfooter{
+
+    display: flex;
+    justify-content:space-between;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+.section1{
+    background-color: #16213d;
+    padding: 15px;
+}
+
+.main{
+    background-color:	#16213d;
+}
+
+.isnavbar:hover{
+    color:#029e9d !important ;
+    border-bottom: 1xp solid red !important;
+}

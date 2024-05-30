@@ -1,0 +1,30 @@
+
+.flowgrow{
+    display: flex;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 30PX;
+    margin: 12px 0px;
+    align-items: center;
+}
+.flowgrow .fleximges{
+    width: 500px;
+}
+.flowgrow .fleximges  img {
+    width: 100%;
+}
+.flowgrow .formfill{
+    display: flex;
+    flex-direction: column;
+    width: 500PX;
+    margin-top: 20px;
+}
+.flowgrow .formfill input {
+    margin: auto;
+}
+.nextpagelife{
+    display: flex;
+    justify-content: center;
+}

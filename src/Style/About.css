@@ -1,0 +1,84 @@
+.bount{
+    text-align: center;    
+    text-shadow:3px 1px 2px rgba(0,0,0,0.6);
+}
+.imgbar{
+    background-image: url();
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.isflex{
+    color: green;
+}
+.flexsuccess{
+    min-width: 200px;
+    max-width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.contenttag{
+    width: 100%;
+}
+.floxsize{
+    width: 100%;
+    max-height: 100%;
+    min-height: 110px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+
+
+/* new section */
+
+
+.section{
+    /* width: 100%; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap ;
+    column-gap: 30px;
+    row-gap: 30px;
+    margin-bottom: 20px;
+
+}
+
+.issection{
+    max-width: 600px;
+
+}
+.isimagtag{
+    max-width: 320px;
+    min-width: 200px;
+        background-image: url('../Image/Gudies/background_pattern.png');
+    background-repeat: no-repeat;
+}
+
+
+
+.fontsizeis{
+    font-size: x-large !important; 
+}
+
+
+
+
+
+/* about us page */
+
+
+.aboutmain{
+    display: flex;
+    justify-content: center;
+}
+.issone{
+    background-image: url(../Image/Gudies/background_pattern.png);
+}
+.issones{
+    background-image: url(../Image/Gudies/bg-trans.png);
+    height: 100%;
+}

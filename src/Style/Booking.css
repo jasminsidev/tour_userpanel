@@ -1,0 +1,70 @@
+.mainis{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 20px ;
+    flex-direction: row;
+}
+.mainis .imgstag{
+    width: 500px;
+}
+.mainis .imgstag img{
+    width: 100%;
+}
+.flox{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+}
+.flox .icons{
+    margin: 0px;
+}
+.bookingmain{
+    background-color:#16213d;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.bookingmain .tagis{
+    font-weight: 900;
+    color: white;
+    /* border: 3px dotted white; */
+    font-style: oblique;
+    text-align: center;
+}   
+.tripstartday{
+    display: flex;
+}
+.peicestyle{
+    background-color: white;
+    margin: 5px 10px;
+    border-radius: 10px;
+    margin: 10px
+}
+.peicestyle .patgois{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.maintext{  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.maintext .contenttext{
+    text-transform: capitalize;
+}
+
+
+
+.istextbutton{
+    text-transform: capitalize;
+    color: green;
+    font-weight: 500;
+}
+/* style={{ textTransform: 'capitalize', color: 'yellow', fontWeight: '500' }} */

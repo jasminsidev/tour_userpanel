@@ -1,0 +1,41 @@
+.Confirmationmain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    column-gap: 25px;
+}
+
+.iconsettion {
+    padding: 10px;
+    margin: 10px;
+    background-color: aliceblue;
+    border: 1px solid red;
+}
+
+.icons {
+    color: black;
+}
+
+.iconmaintext {
+    display: flex;
+    background-color: green;
+}
+
+.createtable {
+    border: 1px solid gray;
+    padding: 10px 0px;
+    margin: 10px 0px;
+}
+
+.contextfive {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 430px;
+    margin-bottom: 30px;
+}
+
+.textmian {
+    padding: 10px;
+    margin: auto;
+    padding: 25px;
+}

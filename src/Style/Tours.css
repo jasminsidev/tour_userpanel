@@ -1,0 +1,61 @@
+.flexis{
+    display: flex;
+}
+.tourlistmain{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.itemlists{
+    min-width: 100%;
+    max-width: 500px;
+}
+.disflex{
+    display: flex;
+    margin: auto;
+}
+.tourslists{
+    margin: auto;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0px;
+    column-gap: 30px;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.toursitem{
+    width: 300px;
+    /* border: 1px solid greenyellow; */
+    /* margin: auto; */
+}
+
+.discenter{
+    display: flex;
+    justify-content: space-around;
+}
+.folxclass{
+    width: 500px;
+}
+.packpagefilter{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    justify-content: center;
+}
+.packpagefilter .filterpage{
+    display: flex;
+    min-width: 200px;
+    max-width: 500px;
+    justify-content: center;
+    flex-direction: column;
+}
+.packpagefilter .filterpage h1{
+    margin: 0px;
+}
+.packpagefill{
+    display: flex;
+    flex-direction:column;
+}
